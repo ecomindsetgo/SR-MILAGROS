@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Formulario de contacto de demostración para proyecto escolar.">
+  <title>Contactos | Octubre se pinta de morado</title>
+  <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+<a class="skip" href="#contenido">Ir al contenido</a>
+<div class="mini-top">Proyecto de Computación · Unidad 07 · 2.º de secundaria</div>
+<header class="site-header"><div class="container nav-wrap">
+  <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">✦</span><span><strong>Octubre morado</strong><small>Una tradición que nos une</small></span></a>
+  <nav class="nav" aria-label="Menú principal">
+    <a href="index.html" >Inicio</a>
+    <a href="nosotros.html" >Nosotros</a>
+    <a href="contactos.html" aria-current="page">Contactos</a>
+  </nav>
+</div></header>
+<main id="contenido"><section class="page-hero"><div class="container"><div class="breadcrumb">Inicio / Contactos</div><span class="eyebrow">Tu opinión cuenta</span><h1>Contactos</h1><p class="lead">Puedes dejar un comentario sobre esta página o contar qué tradición de octubre conoces.</p></div></section>
+<section class="section"><div class="container form-layout"><div class="form-card"><h2>Escribe un mensaje</h2><p class="form-help">Completa los tres campos. Son necesarios para la demostración de PHP.</p>
+<form action="procesar.php" method="post" accept-charset="UTF-8">
+<div class="field"><label for="nombre">Tu nombre</label><input type="text" id="nombre" name="nombre" maxlength="80" autocomplete="name" placeholder="Ejemplo: Ana" required></div>
+<div class="field"><label for="correo">Tu correo electrónico</label><input type="email" id="correo" name="correo" maxlength="120" autocomplete="email" placeholder="ejemplo@correo.com" required></div>
+<div class="field"><label for="mensaje">Tu mensaje</label><textarea id="mensaje" name="mensaje" maxlength="1500" placeholder="Me gustó conocer..." required></textarea></div>
+<button class="primary-button" type="submit">Enviar mensaje de prueba</button>
+</form></div><aside><div class="notice"><strong>Importante:</strong> este formulario es una práctica escolar. El archivo <code>procesar.php</code> comprueba los datos y muestra una confirmación, pero <strong>no guarda mensajes ni envía correos reales</strong>.</div>
+<figure class="figure" style="margin-top:23px"><img src="imagenes/08-alfombra-de-flores.png" alt="Ilustración de una alfombra de flores" style="border-radius:12px"><figcaption>Una tradición hecha con dedicación.</figcaption></figure><p>Para probar este formulario, abre la carpeta del proyecto desde <strong>XAMPP y localhost</strong>. Si abres el HTML con doble clic, PHP no se ejecutará.</p></aside></div></section></main><footer class="site-footer"><div class="container footer-line"><div><strong>Octubre se pinta de morado</strong><p>Trabajo educativo · Educación para el Trabajo · 2026</p><p>Imágenes: ilustraciones propias del proyecto. Información: BNP, Mincul y PerúEduca.</p></div><div><p>Un tema de historia, cultura y respeto.</p><p><a href="nosotros.html#fuentes">Consultar fuentes</a></p></div></div></footer>
+<script src="js/interacciones.js"></script></body></html>

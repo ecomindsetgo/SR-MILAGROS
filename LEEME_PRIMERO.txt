@@ -1,0 +1,56 @@
+PROYECTO ESCOLAR - OCTUBRE SE PINTA DE MORADO
+==================================================
+
+CONTENIDO
+- index.html: página principal, historia, tradiciones y actividades.
+- nosotros.html: propósito educativo, valores y fuentes.
+- contactos.html: formulario con nombre, correo y mensaje.
+- procesar.php: recibe y valida el formulario (NO ENVÍA EMAILS).
+- css/estilos.css: colores, tamaños, fondos, diseño adaptable.
+- js/interacciones.js: botón de dato curioso y pregunta interactiva.
+- imagenes/: NUEVE ilustraciones en PNG, guardadas localmente.
+- fuentes/: archivos SVG editables con los que se elaboraron las ilustraciones.
+
+PARA ABRIR EN BRACKETS
+1. Extrae la carpeta.
+2. Abre Brackets > Archivo > Abrir carpeta y selecciona esta carpeta.
+3. Abre index.html y revisa el contenido.
+4. Usa la vista previa o abre index.html en tu navegador.
+5. Prueba Inicio, Nosotros, Contactos, imágenes y los botones.
+
+PARA PROBAR EL FORMULARIO PHP
+1. Inicia Apache en XAMPP.
+2. Copia la carpeta a C:\xampp\htdocs\
+3. Entra con el navegador a:
+   http://localhost/Octubre_Se_Pinta_De_Morado_2do_U07/contactos.html
+4. Escribe un nombre, un correo de ejemplo y un comentario.
+5. Al enviar, PHP presenta un mensaje de confirmación.
+   El mensaje no se guarda ni se envía por correo (es solo demostración).
+
+PERSONALIZACIÓN OBLIGATORIA POR EL ESTUDIANTE
+- Escribe tu nombre y sección en los lugares que tu profesor solicite.
+- Cambia al menos una reflexión en nosotros.html por tus palabras.
+- Relee y comprueba la información histórica.
+- Revisa una por una las ilustraciones en la carpeta imagenes.
+- Si sustituyes alguna por una fotografía, registra su fuente en Nosotros.
+- Toma tus propias capturas después de probar el proyecto.
+- En el informe explica con sinceridad qué usaste de IA y qué corregiste.
+
+ENTREGA
+- El docente pide un RAR, no ZIP.
+- En Windows haz clic derecho a la carpeta completa > WinRAR > Añadir al archivo...
+- En formato selecciona RAR y pon Apellido_Nombre_2A_U07.rar (ajusta sección).
+- Verifica que index.html esté directamente dentro de la carpeta principal.
+- Descomprime el RAR en otra carpeta y verifica los archivos.
+
+PARA LA SUSTENTACIÓN
+HTML organiza el contenido; CSS cambia apariencia; JavaScript responde
+al clic en los botones; PHP procesa los datos enviados por el formulario.
+Las imágenes son PNG; los dibujos originales SVG se encuentran en fuentes.
+
+FUENTES DEL TEXTO
+Biblioteca Nacional del Perú: https://www.bnp.gob.pe/bnp-atesora-materiales-referentes-al-senor-de-los-milagros/
+Ministerio de Cultura: https://geoportal.cultura.gob.pe/assets/patinmaterial/archivos/doc/ba_588a65214e3db.pdf
+PerúEduca: https://repositorios.perueduca.pe/pe-recursos/edures/ecee6649-13f5-43aa-a812-7f88d86e6afe.pdf
+Estado peruano: https://www.gob.pe/institucion/embajada-del-peru-en-panama/informes-publicaciones/1297746-identidad-nacional-el-surgimiento-del-culto-por-el-senor-de-los-milagros
+Ilustraciones: elaboración original para este proyecto (no fotos históricas).
