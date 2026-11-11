@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" width="1200" height="780">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eae0d4"/><stop offset="1" stop-color="#d3ac91"/></linearGradient>
+<linearGradient id="p" x1="0" y1="0" x2=".8" y2="1"><stop stop-color="#77518e"/><stop offset="1" stop-color="#392449"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ffe5a5"/><stop offset="1" stop-color="#c99440"/></linearGradient>
+<filter id="shadow"><feGaussianBlur stdDeviation="16"/></filter></defs>
+<rect width="1200" height="780" fill="url(#bg)"/>
+<path d="M0 0H1200V780H0Z" fill="none" stroke="#fffaf0" stroke-width="23"/>
+<path d="M35 35H1165V745H35Z" fill="none" stroke="#947859" stroke-opacity=".35" stroke-width="2"/>
+<circle cx="1100" cy="100" r="170" fill="#ffffff" opacity=".19"/><circle cx="120" cy="700" r="210" fill="#ffffff" opacity=".15"/>
+<circle cx="1143" cy="272" r="2" fill="#8f6c9e" opacity=".19"/><circle cx="864" cy="170" r="5" fill="#8f6c9e" opacity=".19"/><circle cx="164" cy="597" r="2" fill="#8f6c9e" opacity=".19"/><circle cx="430" cy="596" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="596" cy="410" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="1158" cy="640" r="5" fill="#8f6c9e" opacity=".19"/><circle cx="875" cy="52" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="210" cy="79" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="711" cy="374" r="2" fill="#8f6c9e" opacity=".19"/><circle cx="729" cy="175" r="3" fill="#8f6c9e" opacity=".19"/><circle cx="1057" cy="335" r="5" fill="#8f6c9e" opacity=".19"/><circle cx="300" cy="306" r="3" fill="#8f6c9e" opacity=".19"/><circle cx="195" cy="475" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="455" cy="539" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="307" cy="263" r="3" fill="#8f6c9e" opacity=".19"/><circle cx="646" cy="130" r="5" fill="#8f6c9e" opacity=".19"/><circle cx="941" cy="585" r="5" fill="#8f6c9e" opacity=".19"/><circle cx="1116" cy="663" r="3" fill="#8f6c9e" opacity=".19"/><circle cx="337" cy="213" r="4" fill="#8f6c9e" opacity=".19"/><circle cx="1055" cy="333" r="5" fill="#8f6c9e" opacity=".19"/><circle cx="179" cy="676" r="3" fill="#8f6c9e" opacity=".19"/><circle cx="390" cy="199" r="3" fill="#8f6c9e" opacity=".19"/><path d="M60 652L60 425L140 425L157 374L213 450L284 384L284 652Z" fill="#ab8876"/>
+<path d="M265 650V335L354 360L401 281L442 390L515 366V650Z" fill="#977783"/>
+<path d="M795 650V390L875 344L945 428L1020 300L1140 400V650Z" fill="#a98a7a"/>
+<path d="M0 672L300 630L496 676L735 631L1000 681L1200 640V780H0Z" fill="#ad9583"/>
+<path d="M90 430L155 500L115 535L190 602M970 430L930 520L1000 558L950 655M324 375L350 454L321 486L371 577" fill="none" stroke="#704f55" stroke-width="10"/>
+<path d="M520 690V230Q520 180 625 171Q733 178 733 230V690Z" fill="#f6d7a4" stroke="#865b58" stroke-width="17"/>
+<path d="M540 669V260Q540 207 625 201Q713 205 713 260V669Z" fill="#6f5264"/>
+<g transform="translate(625 388) scale(0.56)" stroke-linecap="round" stroke-linejoin="round">
+ <rect x="-12" y="-170" width="24" height="440" rx="5" fill="#7b533d"/><rect x="-150" y="-112" width="300" height="23" rx="5" fill="#7b533d"/>
+ <path d="M-120 -99Q-71 -104 -40 -54L-27 46Q-20 85 -43 150M120 -99Q70 -104 40 -54L27 46Q20 85 43 150" fill="none" stroke="#bb8564" stroke-width="31"/>
+ <path d="M-35 -52Q0 -83 35 -52L48 53Q15 86 -41 55Z" fill="#bf8968"/>
+ <circle cy="-94" r="37" fill="#c8916d"/><path d="M-38 -101Q-32 -141 2 -139Q36 -136 36 -109L20 -119L-1 -112L-24 -122Z" fill="#35272b"/>
+ <path d="M-25 -77Q0 -48 25 -79L27 -64Q2 -39 -23 -63Z" fill="#4a3430"/>
+ <path d="M-45 48Q0 70 46 48L40 98Q1 110 -39 96Z" fill="#e5cfb0"/>
+ </g><path d="M422 190L480 252M480 190L422 252" stroke="#e4a94d" stroke-width="8" opacity=".7"/><path d="M757 165L815 227M815 165L757 227" stroke="#e4a94d" stroke-width="8" opacity=".7"/><path d="M733 480L791 542M791 480L733 542" stroke="#e4a94d" stroke-width="8" opacity=".7"/><path d="M452 510L510 572M510 510L452 572" stroke="#e4a94d" stroke-width="8" opacity=".7"/></svg>
